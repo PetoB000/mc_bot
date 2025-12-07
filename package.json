@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "Minecraft multi-account bot",
+  "main": "multiBot.js",
+  "scripts": {
+    "start": "node multiBot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1"
+  }
+}
